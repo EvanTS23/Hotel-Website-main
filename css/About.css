@@ -1,11 +1,4 @@
 
-
-
-
-
-
-/*dropdown nav*/
-
 {
   font-family: Arial, Helvetica, sans-serif;
   
@@ -88,18 +81,7 @@ h8{
 			border-radius:20px;
 			font-family: 'Oleo Script Swash Caps', cursive;
 			}
-	.second-section{
-			color:Red;
-			background-color:#c20037;
-			width:1000px;
-			margin-left:900px;
-			padding:50px;
-			height: 50%;
-			border:5px #E3E3E3 solid;
-			border-radius:20px;
-			font-family: 'Oleo Script Swash Caps', cursive;
-			position:right;
-			}
+
 	
 			
 
